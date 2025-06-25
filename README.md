@@ -1,20 +1,45 @@
-# rock-paper-scissors
-A browser-based Rock–Paper–Scissors game built with HTML, CSS &amp; JavaScript
-This is a mini-project rock-paper-scissors which is a classical game.
----------------------------------------------------------------------
-How to play:
-1)open rock-paper-scissor.html
-2)enjoy!
----------------------------------------------------------------------
-Rules of the game: 
-You are to one choose from Rock/Paper/Scissors
-1) Rock defeats Scissors
-2) Paper defeats Rock
-3) Scissors defeat Paper
-If both are same, then its a tie!
----------------------------------------------------------------------
-About the project: 
-This is based upon html5, css and javascript. This project is based
-upon boolean range where we use the built-in function random of the
-Math library in javascript.
---------------------------------------------------------------------- 
+# Rock–Paper–Scissors 🎮
+
+A simple browser-based Rock–Paper–Scissors game built with **HTML**, **CSS**, and **JavaScript**.  
+This mini-project is a classic implementation designed as part of my web development learning journey.
+
+---
+
+## 🚀 How to Play
+
+1. Open `rock-paper-scissors.html` in your browser.
+2. Choose Rock, Paper, or Scissors.
+3. See if you win!
+
+---
+
+## 📜 Game Rules
+
+- 🪨 Rock beats Scissors  
+- 📄 Paper beats Rock  
+- ✂️ Scissors beat Paper  
+- If both choices are the same — it's a tie!
+
+---
+
+## 🛠️ About the Project
+
+This project is built using:
+- **HTML5** for structure
+- **CSS3** for styling
+- **JavaScript** for logic and interactivity
+
+It uses the `Math.random()` function to simulate the computer's choice, and basic Boolean logic to decide the winner.
+
+---
+
+## 📁 Project Purpose
+
+This was built as a foundational mini-project to practice:
+- DOM manipulation
+- Event handling
+- Conditional logic in JavaScript
+
+---
+
+## ✅ Try it out and have fun!
