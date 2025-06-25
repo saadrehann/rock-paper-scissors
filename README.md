@@ -15,9 +15,10 @@ This mini-project is a classic implementation designed as part of my web develop
 
 ## 📜 Game Rules
 
-- Rock beats Scissors  
-- Paper beats Rock  
-- Scissors beat Paper  
+- ✊ Rock beats Scissors  
+- ✋ Paper beats Rock  
+- ✂ Scissors beat Paper
+  
 - If both choices are the same — it's a tie!
 
 ---
