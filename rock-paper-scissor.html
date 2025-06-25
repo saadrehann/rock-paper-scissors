@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Rock Paper Scissors</title>
+        <link rel = "stylesheet" href = "rps.css">
+    </head>
+
+    <body class = "body">
+        <div class = "heading">
+            <h1>Rock Paper Scissors</h1>
+        </div>
+
+        <div class = "main">
+            <div class = "upper-main">
+            <button class = "rock"
+                    onclick="playGame('Rock')">
+                <h2>Rock</h2>
+            </button>
+
+            <button class = "paper"
+                    onclick="playGame('Paper')">
+                <h2>Paper</h2>
+            </button>
+
+            <button class = "scissors"
+                    onclick="playGame('Scissors')">
+                <h2>Scissors</h2>
+            </button>
+
+            </div>
+            <div class = "lower-main">
+                <h3>Choose an option!</h3>
+            </div>
+        </div>
+
+        <div class = "stats">
+            <div class = "stats-heading">
+                <h2>Statistics</h2>
+            </div>
+            <div class="imagery">
+                <div class="left-imagery">
+                    <div class = "upper-left"><img id = "user-move-img" src = "" ></div>
+                    <div class = "lower-left"><p id="user-move"></p></div>
+                </div>
+                <div class="right-imagery">
+                    <div class = "upper-right"><img id = "computer-move-img" src = ""></div>
+                    <div class = "lower-right"><p id="computer-move"></p></div>
+                </div>
+            </div>
+            <div class="final-result">
+                <h3 id="result-text"></h3>
+            </div>
+            <button class = "play-again"
+                    onclick="
+                    playGame()"><h2>Play</h2></button>
+        </div>
+        
+        
+        <script src="game-logic.js"></script>
+
+    </body>
+
+</html>

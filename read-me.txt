@@ -1,0 +1,19 @@
+Description:
+This is a mini-project rock-paper-scissors which is a classical game.
+---------------------------------------------------------------------
+How to play:
+1)open rock-paper-scissor.html
+2)enjoy!
+---------------------------------------------------------------------
+Rules of the game: 
+You are to one choose from Rock/Paper/Scissors
+1) Rock defeats Scissors
+2) Paper defeats Rock
+3) Scissors defeat Paper
+If both are same, then its a tie!
+---------------------------------------------------------------------
+About the project: 
+This is based upon html5, css and javascript. This project is based
+upon boolean range where we use the built-in function random of the
+Math library in javascript.
+--------------------------------------------------------------------- 
